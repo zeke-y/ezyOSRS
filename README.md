@@ -9,3 +9,4 @@ Completed features:
 WIP features:
 - offset inputs by small margin to "humanize" actions and prevent chance of ban
 - yew chop n bank
+- POSSIBLY use machine learning or may just match templates
