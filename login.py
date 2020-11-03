@@ -46,7 +46,7 @@ if max_val >= threshold:
 
     pyautogui.moveTo(max_loc[0] + 80, max_loc[1] + 30, duration=1)
     pyautogui.leftClick()
-    pyautogui.typewrite("Kachze225")
+    pyautogui.typewrite("PASSWORD")
     pyautogui.moveTo(max_loc[0] - 80, max_loc[1] + 40, duration=1)
     pyautogui.leftClick()
     time.sleep(7)
